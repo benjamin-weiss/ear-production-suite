@@ -18,7 +18,7 @@ The EAR Production Suite is a joint development of [BBC R&D](https://bbc.co.uk/r
 
   <div markdown="1" class="text_section feature">
   <img src="{{ site.baseurl }}/images/speaker2.png">
-  Mix independently from loudspeaker setup
+  Mix independently of loudspeaker setup
   </div>
 
   <div markdown="1" class="text_section feature">
