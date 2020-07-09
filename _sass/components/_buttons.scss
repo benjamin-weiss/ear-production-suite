@@ -7,11 +7,11 @@
   padding: 1.5rem 2rem;
   @include fs--meta;
   text-decoration: none;
-  background: $c__dark-background-lighter;
-  border-color: $c__dark-background-lighter;
+  background: $c__dark-blue;
   border-radius: 10px;
   border-style: none;
   color: $c__white;
+  font-weight: bold;
 }
 
 .c-btn > a {
@@ -19,8 +19,7 @@
 }
 
 .c-btn:hover {
-  background: $c__dark-background-lighter-hover;
-  border-color: $c__dark-background-lighter-hover;
+  background: $c__dark-blue-hover;
   cursor: pointer;
 }
 
