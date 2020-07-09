@@ -5,7 +5,7 @@ subtitle: A collection of production tools for Audio Definition Model (ADM) comp
 ---
 
 <div markdown="1" class="text_section">
-The EAR Production Suite (EPS) is a set of VST® plugins for digital audio workstations (DAWs) that enable sound engineers to produce and author content using the ADM format and to monitor it for any ITU-R BS.2051 loudspeaker configuration using the ITU ADM Renderer. Moreover, the EAR Production Suite enables professionals to import and export ADM files, compliant to the EBU ADM Production profile (EBU Tech 3392). The VST® plugins are currently optimized for the Reaper DAW, which features an extension interface that is used to import and export ADM files within a BW64 container. Apart from using it for productions, we envisage the EAR Production Suite as role model for further ADM implementations to harmonize ADM workflows and functionality.
+The EAR Production Suite (EPS) is a set of VST® plugins for digital audio workstations (DAWs) that enable sound engineers to produce immersive and personalizable content using the [Audio Definition Model](https://www.itu.int/rec/R-REC-BS.2076) (ADM) format and to monitor it for any [ITU-R BS.2051](https://www.itu.int/rec/R-REC-BS.2051/en) loudspeaker configuration using the [ITU ADM Renderer](https://www.itu.int/rec/R-REC-BS.2127/en). ADM is the only format available for codec-agnostic [Next Generation Audio](https://tech.ebu.ch/nga) (NGA) productions. Moreover, the EAR Production Suite enables professionals to import and export ADM files, compliant to the [EBU ADM Production profile](https://tech.ebu.ch/docs/tech/tech3392.pdf). The VST® plugins are currently optimized for the Reaper DAW, which features an extension interface that is used to import and export ADM files within a BW64 container. The EAR Production Suite was designed to demonstrate the intended use of the ADM in audio production workflows, so that the standards can be adopted in other professional tools in a consistent manner.
 
 The EAR Production Suite is a joint development of [BBC R&D](https://bbc.co.uk/rd) and [IRT](https://www.irt.de/en/home)
 </div>
@@ -18,12 +18,12 @@ The EAR Production Suite is a joint development of [BBC R&D](https://bbc.co.uk/r
 
   <div markdown="1" class="text_section feature">
   <img src="{{ site.baseurl }}/images/speaker2.png">
-  Loudspeaker setup independent mixing
+  Mix independently from loudspeaker setup
   </div>
 
   <div markdown="1" class="text_section feature">
   <img src="{{ site.baseurl }}/images/document.png">
-  Native Audio Definition Model support
+  Native support for the Audio Definition Model
   </div>
 </div>
 
@@ -96,5 +96,5 @@ The EPS is designed for REAPER 64-bit, on a 64-bit OS (macOS or Windows)
 <div markdown="1" class="text_section">
 ## Contact
 You can contact the developers of the EAR Production Suite via this mail: tbd@tbd.de
-For feedback, feature request and bug reports, we would appreciate if you submit an [Issue](https://github.com/ebu/ear-production-suite/issues) on our Github page.
+For feedback, feature request and bug reports, we would appreciate if you submit an [Issue](https://github.com/ebu/ear-production-suite/issues) on our Github page. If you are considering adding ADM support to your own tools, we would be happy to discuss and advise.
 </div>
