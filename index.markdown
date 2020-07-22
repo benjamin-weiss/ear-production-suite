@@ -25,6 +25,12 @@ The EAR Production Suite is a joint development of [BBC R&D](https://bbc.co.uk/r
   <img src="{{ site.baseurl }}/images/document.png">
   Native support for the Audio Definition Model
   </div>
+
+  <div markdown="1" class="text_section feature">
+  <img src="{{ site.baseurl }}/images/opensource.png">
+  Free open source implementation
+  </div>
+
 </div>
 
 <div style="clear: both;"></div>
