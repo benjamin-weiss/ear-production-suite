@@ -101,6 +101,6 @@ The EPS is designed for REAPER 64-bit, on a 64-bit OS (macOS or Windows)
 
 <div markdown="1" class="text_section">
 ## Contact
-You can contact the developers of the EAR Production Suite via this mail: tbd@tbd.de
+You can contact the developers of the EAR Production Suite via [this mail](mailto:ear-production-suite-admins@list.ebu.ch)
 For feedback, feature request and bug reports, we would appreciate if you submit an [Issue](https://github.com/ebu/ear-production-suite/issues) on our Github page. If you are considering adding ADM support to your own tools, we would be happy to discuss and advise.
 </div>
