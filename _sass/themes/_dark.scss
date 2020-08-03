@@ -89,4 +89,22 @@
     margin-bottom: 2rem;
     font-weight: 500;
   }
+  .yt-iframe {
+     position: relative;
+     padding-bottom: 56.25%;
+     padding-top: 0;
+     height: 0;
+     overflow: hidden;
+  }
+
+  .yt-iframe iframe,
+  .yt-iframe object,
+  .yt-iframe embed {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+}
+
 }

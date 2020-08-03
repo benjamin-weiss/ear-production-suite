@@ -37,7 +37,9 @@ The EAR Production Suite is a joint development of [BBC R&D](https://bbc.co.uk/r
 
 <div markdown="1" class="text_section">
 ## Video Tutorial
-[![Watch the video](https://irt-a.akamaihd.net/EAR-Production-Suite/Intro_image.png)](https://irt-a.akamaihd.net/EAR-Production-Suite/Intro_Beta-release.mp4)
+  <div class="yt-iframe">
+    <iframe src="https://www.youtube-nocookie.com/embed/u7P5mEFY76k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
 </div>
 
 
