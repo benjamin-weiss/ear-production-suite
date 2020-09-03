@@ -41,15 +41,19 @@
 
   .github-corner {
     fill:#fff;
-    color:$c__dark-background;
+    color:$c__dark-blue;
     position: absolute;
     border: 0;
     right: 0;
     @media screen and (min-width: 601px) {
-      top: 6rem;
+      top: 0rem;
+      height: 12rem;
+      margin-right: 0rem;
     }
     @media screen and (max-width: 601px) {
-      top: 5rem;
+      top: 0rem;
+      margin-right: -1rem;
+      height: 6rem;
     }
   }
 

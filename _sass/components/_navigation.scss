@@ -6,7 +6,8 @@
   position: absolute;
   top: 0;
   left: 0;
-  padding: 0 2.5rem;
+  padding-left: 2.5rem;
+  padding-right: 0px;
   width: 100%;
   background: $t-theme;
   z-index: 10;
@@ -73,10 +74,10 @@
     vertical-align: middle;
 
     @media screen and (min-width: 601px) {
-      height: 4rem;
+      height: 6rem;
     }
     @media screen and (max-width: 601px) {
-      height: 3rem;
+      height: 4rem;
     }
   }
 
